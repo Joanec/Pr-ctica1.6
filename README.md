@@ -1,1 +1,1 @@
-# Pr-ctica1.6
+# Practica1.6
